@@ -66,3 +66,4 @@ blue5 = bloks(7, "zila", 5, 23)
 print(blue5.nosaukums, blue5.derigums)
 blue5.mainit_formu(12)
 print(blue5.nosaukums, blue5.derigums)
+
